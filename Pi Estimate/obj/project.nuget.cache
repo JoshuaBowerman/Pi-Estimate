@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8gpBAbIo9PV5U6DL8De6mH2yLRFOU68H+r5qYJ9FCcP959QD92YjfO+2fQXLuTYkJcNvfHXHNvsanf5Wlpis8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\source\\repos\\Pi Estimate\\Pi Estimate\\Pi Estimate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\opencl.net\\2.2.9\\opencl.net.2.2.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenCL.Net 2.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenCL.Net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
